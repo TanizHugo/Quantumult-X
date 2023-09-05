@@ -145,11 +145,11 @@ dns:
 
 
 proxies:
-- {name: "美国[搬瓦工]wmess+ws+cdn", type: vmess, server: 104.25.213.125, port: 443, uuid: ca35a654-ca9c-4801-d2c9-f6ebf534c7a6, alterId: 0, cipher: auto, udp: true, network: ws, tls: true, ws-opts: {path: /newvmesscdn, headers: {Host: tkl.tanizhugo.top}}}
+- {name: "美国[搬瓦工]wmess+ws+cdn", type: vmess, server: 104.25.213.125, port: 443, uuid: 03b2553c-e6d4-4413-e310-5124b805ce69, alterId: 0, cipher: auto, udp: true, network: ws, tls: true, ws-opts: {path: /vmesscdn, headers: {Host: tkl.tanizhugo.top}}}
 
-- {name: "美国[搬瓦工]wmess+ws", type: vmess, server: 104.243.29.115, port: 28810, uuid: 6fde03c5-3736-4b02-b78f-55b003c3281a, alterId: 0, cipher: auto, udp: true, network: ws, ws-opts: {path: /6fde03c5, headers: {Host: tkl.tanizhugo.top}}}
+- {name: "美国[搬瓦工]wmess+ws", type: vmess, server: 104.243.29.115, port: 36901, uuid: 1d966090-e852-44e5-ed99-838c51c204b1, alterId: 0, cipher: auto, udp: true, network: ws, ws-opts: {path: /e852, headers: {Host: tkl.tanizhugo.top}}}
 
-- {name: "美国[搬瓦工]trojan+tls", type: trojan, server: 104.243.29.115, port: 25980, password: pI4r2j2VaQ, udp:true, sni: tkl.tanizhugo.top}
+- {name: "美国[搬瓦工]trojan+tls", type: trojan, server: 104.243.29.115, port: 32118, password: HSs9EIgS5i, udp:true, sni: tkl.tanizhugo.top}
 
  # Shadowsocks
   # 支持的加密方法:
