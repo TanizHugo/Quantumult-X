@@ -145,7 +145,7 @@ dns:
 
 
 proxies:
-- {name: "美国[搬瓦工]wmess+ws+cdn", type: vmess, server: 104.25.213.125, port: 443, uuid: 03b2553c-e6d4-4413-e310-5124b805ce69, alterId: 0, cipher: auto, udp: true, network: ws, tls: true, ws-opts: {path: /vmesscdn, headers: {Host: tkl.tanizhugo.top}}}
+- {name: "美国[搬瓦工]wmess+ws+cdn", type: vmess, server: 162.159.39.49, port: 443, uuid: 03b2553c-e6d4-4413-e310-5124b805ce69, alterId: 0, cipher: auto, udp: true, network: ws, tls: true, ws-opts: {path: /vmesscdn, headers: {Host: tkl.tanizhugo.top}}}
 
 - {name: "美国[搬瓦工]wmess+ws", type: vmess, server: 104.243.29.115, port: 36901, uuid: 1d966090-e852-44e5-ed99-838c51c204b1, alterId: 0, cipher: auto, udp: true, network: ws, ws-opts: {path: /e852, headers: {Host: tkl.tanizhugo.top}}}
 
